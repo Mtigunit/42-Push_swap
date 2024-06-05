@@ -14,7 +14,6 @@ The Push_swap project involves sorting data on a stack using a limited set of in
    - [Benchmark](#benchmark)
 5. [Bonus Part](#bonus-part)
    - [Checker Program](#checker-program)
-6. [Submission and Peer-evaluation](#submission-and-peer-evaluation)
 
 ## Introduction
 The Push_swap project is a straightforward algorithm project where data must be sorted using a set of instructions to manipulate two stacks. The objective is to write a program in C, named `push_swap`, that calculates and displays the smallest program made of Push_swap instructions to sort integers received as arguments.
