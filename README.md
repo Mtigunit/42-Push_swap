@@ -121,10 +121,6 @@ The `checker` program:
 - Executes instructions on the stack.
 - Outputs "OK" if the stack is sorted, otherwise "KO".
 - Handles errors gracefully.
-
-## Submission and Peer-evaluation
-Submit your work to the assigned Git repository. Ensure all mandatory files are included and comply with the requirements. Organize your files logically, and double-check file names for accuracy.
-
 ---
 
 This README provides a comprehensive guide to the Push_swap project, detailing the rules, objectives, and requirements for both the mandatory and bonus parts. Follow these guidelines to ensure your project meets the expected standards.
